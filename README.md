@@ -11,3 +11,11 @@ Some of the work here:
 - [Reliable ML under shift](https://github.com/DrNFRZM/reliable-ml-under-shift) — studying calibration and uncertainty when the data distribution changes.
 
 I'm currently looking for PhD opportunities in machine learning.
+
+## Bachelor's thesis
+
+[GNSS localization by machine learning techniques](https://thesis.unipd.it/handle/20.500.12608/76849)
+— Information Engineering, University of Padova, 2023/2024; supervised by
+Prof. Stefano Tomasin. I studied a neural-network classifier that uses satellite
+positions and pseudoranges to locate a receiver within geographic tiles.
+[Summary, PDF link, and citation](https://github.com/DrNFRZM/gnss-localization-ml).
